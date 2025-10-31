@@ -1,0 +1,38 @@
+#two-parts-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+#netflix-logo {
+  width: 120px;
+}
+
+#avatar {
+  width: 40px;
+}
+
+header a {
+  text-decoration: none;
+  color: white;
+}
+
+#first-film-container {
+  max-width: 100%;
+}
+#first-film-container #first-film-row {
+  max-width: 100%;
+}
+
+#second-film-container {
+  max-width: 100%;
+}
+#second-film-container #second-film-row {
+  max-width: 100%;
+}
+
+#third-film-container {
+  max-width: 100%;
+}
+#third-film-container #third-film-row {
+  max-width: 100%;
+}/*# sourceMappingURL=style.css.map */
